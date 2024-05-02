@@ -1,0 +1,19 @@
+{
+  "name": "@annamalia3000/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annamalia3000/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annamalia3000/ajs/issues"
+  },
+  "homepage": "https://github.com/annamalia3000/ajs#readme",
+  "description": ""
+}
